@@ -1,0 +1,8 @@
+x = 3.14159
+rounded_num = round(x, 2)
+
+2)
+n = int(input())
+m = int(input())
+b = (n + m)/ 2
+print(("Среднее значение двух чисел",round(b, 2)))    
